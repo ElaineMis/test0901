@@ -4,10 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Test0901Application {
+public class Application {
 
+    //修改了
     public static void main(String[] args) {
-        SpringApplication.run(Test0901Application.class, args);
+        SpringApplication.run(Application.class, args);
     }
 
 }
